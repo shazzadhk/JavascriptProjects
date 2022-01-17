@@ -1,0 +1,20 @@
+.textArea{
+    height: 400px;
+    width: 700px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 3px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.header{
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+    border-radius: 3px;
+    text-align: center;
+    color: green;
+}
+.menu ul li{
+    list-style-type: none;
+}
